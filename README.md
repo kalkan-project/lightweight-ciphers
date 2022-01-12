@@ -1,12 +1,15 @@
 # Lightweight Ciphers
+{:.no_toc}
 
 List of lightweight ciphers and open source implementations
 
+- TOC
+{:toc}
 
-## Contents
+<!-- ## Contents
 
 > It will be generated later
-
+ -->
 ---
 ## Lightweight Cryptography Hardware API
 
