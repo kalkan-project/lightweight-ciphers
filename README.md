@@ -5,7 +5,17 @@ List of lightweight ciphers and open source implementations
 
 ## Contents
 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Contents](#contents)
+- [Lightweight Cryptography Hardware API](#lightweight-cryptography-hardware-api)
+- [ASCON](#ascon)
+	- [Implemantations](#implemantations)
+- [SIMON and SPECK Family](#simon-and-speck-family)
+- [TinyJAMBU](#tinyjambu)
+	- [Implemantations](#implemantations)
+
+<!-- /TOC -->
 
 
 ## Lightweight Cryptography Hardware API
