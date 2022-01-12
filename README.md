@@ -7,12 +7,13 @@ List of lightweight ciphers and open source implementations
 
 > It will be generated later
 
+---
 ## Lightweight Cryptography Hardware API
 
 - [Github page from NSA](https://github.com/GMUCERG/LWC)
 - [Hardware Benchmarking of Lightweight Cryptography](https://cryptography.gmu.edu/athena/index.php?id=LWC)
 - This is a development package for GMU's Hardware API for Lightweight Cryptography
-
+---
 
 ## SIMON and SPECK Family
 
