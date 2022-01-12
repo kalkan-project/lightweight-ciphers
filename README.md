@@ -7,14 +7,14 @@ List of lightweight ciphers and open source implementations
 
 
 
----
+
 ## Lightweight Cryptography Hardware API
 
 - [Github page](https://github.com/GMUCERG/LWC)
 - [Hardware Benchmarking of Lightweight Cryptography](https://cryptography.gmu.edu/athena/index.php?id=LWC)
 - This is a development package for GMU's Hardware API for Lightweight Cryptography
 
----
+
 
 ## ASCON
 - [Website](https://ascon.iaik.tugraz.at)
@@ -24,18 +24,15 @@ List of lightweight ciphers and open source implementations
 - [ASCON NIST Submission](https://csrc.nist.gov/CSRC/media/Projects/lightweight-cryptography/documents/finalist-round/updated-submissions/ascon.zip) - Implementations of the ASCON in *C*.
 - [Ascon](https://github.com/GMUCERG/Ascon) - Implementations of the ASCON in *Verilog*.
 
----
+
 
 ## SIMON and SPECK Family
 
 - [Original paper](https://eprint.iacr.org/2013/404.pdf)
 - [Github page](https://github.com/nsacyber/simon-speck)
-
-### Implemantations
-
 - [Simon_Speck_Ciphers](https://github.com/inmcm/Simon_Speck_Ciphers) - Implementations of the Speck & Simon Block Ciphers in *C*, *Python* and *VHDL*.
 
----
+
 
 ## TinyJAMBU
 
