@@ -46,7 +46,9 @@ List of lightweight ciphers and open source implementations
 
 - [Original paper](https://eprint.iacr.org/2013/404.pdf)
 - [Github page](https://github.com/nsacyber/simon-speck)
-- [Simon_Speck_Ciphers](https://github.com/inmcm/Simon_Speck_Ciphers) - Implementations of the Speck & Simon Block Ciphers in *C*, *Python* and *VHDL*.
+
+### Implementations of the SIMON and SPECK
+- [Simon_Speck_Ciphers](https://github.com/inmcm/Simon_Speck_Ciphers) `C` `Python` `VHDL`
 
 
 
