@@ -10,10 +10,10 @@ List of lightweight ciphers and open source implementations
 - [Contents](#contents)
 - [Lightweight Cryptography Hardware API](#lightweight-cryptography-hardware-api)
 - [ASCON](#ascon)
-	- [Implemantations](#implemantations)
+	- [Implementations of the ASCON](#implementations-of-the-ascon)
 - [SIMON and SPECK Family](#simon-and-speck-family)
 - [TinyJAMBU](#tinyjambu)
-	- [Implemantations](#implemantations)
+	- [Implementations](#implementations)
 
 <!-- /TOC -->
 
@@ -27,13 +27,19 @@ List of lightweight ciphers and open source implementations
 
 
 ## ASCON
-- [Website](https://ascon.iaik.tugraz.at)
 - [Original paper](https://csrc.nist.gov/CSRC/media/Projects/lightweight-cryptography/documents/finalist-round/updated-spec-doc/ascon-spec-final.pdf)
+- [Website](https://ascon.iaik.tugraz.at)
+- [Github Page](https://github.com/ascon)
 
-### Implemantations
-- [ASCON NIST Submission](https://csrc.nist.gov/CSRC/media/Projects/lightweight-cryptography/documents/finalist-round/updated-submissions/ascon.zip) - Implementations of the ASCON in *C*.
-- [Ascon](https://github.com/GMUCERG/Ascon) - Implementations of the ASCON in *Verilog*.
 
+### Implementations of the ASCON
+- [ASCON NIST Submission](https://csrc.nist.gov/CSRC/media/Projects/lightweight-cryptography/documents/finalist-round/updated-submissions/ascon.zip) `C`
+- [Ascon](https://github.com/GMUCERG/Ascon) `Verilog`
+- [ascon-c](https://github.com/ascon/ascon-c) `C` `assembly`
+- [javaascon](https://github.com/ascon/javaascon) `Java`
+- [ascon-hardware](https://github.com/ascon/ascon-hardware) `VHDL`
+- [pyascon](https://github.com/meichlseder/pyascon) `Python`
+- [ascon_hardware](https://github.com/IAIK/ascon_hardware) `VHDL`
 
 
 ## SIMON and SPECK Family
@@ -48,7 +54,7 @@ List of lightweight ciphers and open source implementations
 
 - [Original paper](https://csrc.nist.gov/CSRC/media/Projects/lightweight-cryptography/documents/finalist-round/updated-spec-doc/xoodyak-spec-final.pdf)
 
-### Implemantations
+### Implementations
 
 - [TinyJAMBU NIST Submission](https://csrc.nist.gov/CSRC/media/Projects/lightweight-cryptography/documents/finalist-round/updated-submissions/tinyjambu.zip) - Implementations of the TinyJAMBU in *C*.
 - [TinyJAMBU-SCA](https://github.com/GMUCERG/TinyJAMBU-SCA) - Implementations of the TinyJAMBU in *VHDL*.
