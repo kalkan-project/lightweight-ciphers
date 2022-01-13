@@ -40,6 +40,9 @@ List of lightweight ciphers and open source implementations
 - [ascon-hardware](https://github.com/ascon/ascon-hardware) `VHDL`
 - [pyascon](https://github.com/meichlseder/pyascon) `Python`
 - [ascon_hardware](https://github.com/IAIK/ascon_hardware) `VHDL`
+- [ascon-dom](https://github.com/hgrosz/ascon_dom) `VHDL`
+- [LWCIoTClient](https://github.com/darketmaster/LWCIoTClient) `C` `ESP32`
+- [ascon_lwc_hash](https://github.com/vtsal/ascon_lwc_hash) `VHDL`
 
 
 ## SIMON and SPECK Family
